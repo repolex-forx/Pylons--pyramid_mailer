@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Pylons/pyramid_mailer/commit/2e6b72508df2dde8101adb727d70d25f89a24164",
       "git:hexsha": "2e6b72508df2dde8101adb727d70d25f89a24164",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Pylons/pyramid_mailer/commit/ade180d414c0a8d6960f72c3aa8c42198a5bb6c0",
